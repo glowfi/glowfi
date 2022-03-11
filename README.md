@@ -1,4 +1,4 @@
-### Halo alle zussamen! 👋
+### Halo alle zusammen! 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=glowfi&theme=gruvbox&show_icons=true&count_private=true)
 
