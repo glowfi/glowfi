@@ -1,13 +1,18 @@
 <!-- Greeting -->
 
-<h2 style="text-align:center;">
-Halo alle zusammen! 👋
-</h2>
+======
+
+```
+ _   _      _ _                            _     _ _
+| | | | ___| | | ___   __      _____  _ __| | __| | |
+| |_| |/ _ \ | |/ _ \  \ \ /\ / / _ \| '__| |/ _` | |
+|  _  |  __/ | | (_) |  \ V  V / (_) | |  | | (_| |_|
+|_| |_|\___|_|_|\___/    \_/\_/ \___/|_|  |_|\__,_(_)
+
+```
 
 <!-- Stats -->
 
-<div style="text-align: center;">
+======
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=glowfi&theme=gruvbox&show_icons=true&count_private=true)
-
-</div>
